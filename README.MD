@@ -41,9 +41,3 @@
 
 Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melhorar este projeto, sinta-se à vontade para fazer um fork do repositório e enviar sua pull request.
 
-## Autor
-
-**Ricardo Moura**
-- [Perfil no GitHub](https://github.com/RicardoMouraa)
-- [LinkedIn](https://www.linkedin.com/in/ricardomouradev/)
-- [Instagram](https://www.instagram.com/riicardomoura/)
